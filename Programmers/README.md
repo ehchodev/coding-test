@@ -1,4 +1,5 @@
 # Programmers
+
 ## Lv. 0
 | No. | 문제 | Java | JavaScript |
 |:---:|---|:---:|:---:|
@@ -242,3 +243,12 @@
 | 238 | [[PCCE 기출문제] 3번 수 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/340205) | [340205.java](https://github.com/ehchodev/CodingTest/blob/main/Programmers/Lv.0/%5BPCCE%20%EA%B8%B0%EC%B6%9C%EB%AC%B8%EC%A0%9C%5D%203%EB%B2%88%20%EC%88%98%20%EB%82%98%EB%88%84%EA%B8%B0/340205.java) ||
 | 239 | [[PCCE 기출문제] 2번 각도 합치기](https://school.programmers.co.kr/learn/courses/30/lessons/340206) | [340206.java](https://github.com/ehchodev/CodingTest/blob/main/Programmers/Lv.0/%5BPCCE%20%EA%B8%B0%EC%B6%9C%EB%AC%B8%EC%A0%9C%5D%202%EB%B2%88%20%EA%B0%81%EB%8F%84%20%ED%95%A9%EC%B9%98%EA%B8%B0/340206.java) ||
 | 240 | [[PCCE 기출문제] 1번 문자 출력](https://school.programmers.co.kr/learn/courses/30/lessons/340207) | [340207.java](https://github.com/ehchodev/CodingTest/blob/main/Programmers/Lv.0/%5BPCCE%20%EA%B8%B0%EC%B6%9C%EB%AC%B8%EC%A0%9C%5D%201%EB%B2%88%20%EB%AC%B8%EC%9E%90%20%EC%B6%9C%EB%A0%A5/340207.java) ||
+
+## Lv. 1
+| No. | 문제 | Java | JavaScript |
+|:---:|---|:---:|:---:|
+| 1 | [자릿수 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/12931) | [12931.java](https://github.com/ehchodev/CodingTest/blob/main/Programmers/Lv.1/%EC%9E%90%EB%A6%BF%EC%88%98%20%EB%8D%94%ED%95%98%EA%B8%B0/12931.java) | [12931.js](https://github.com/ehchodev/CodingTest/blob/main/Programmers/Lv.1/%EC%9E%90%EB%A6%BF%EC%88%98%20%EB%8D%94%ED%95%98%EA%B8%B0/12931.js) |
+| 2 | [자연수 뒤집어 배열로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12932) | [12932.java](https://github.com/ehchodev/CodingTest/blob/main/Programmers/Lv.1/%EC%9E%90%EC%97%B0%EC%88%98%20%EB%92%A4%EC%A7%91%EC%96%B4%20%EB%B0%B0%EC%97%B4%EB%A1%9C%20%EB%A7%8C%EB%93%A4%EA%B8%B0/12932.java) | [12932.js](https://github.com/ehchodev/CodingTest/blob/main/Programmers/Lv.1/%EC%9E%90%EC%97%B0%EC%88%98%20%EB%92%A4%EC%A7%91%EC%96%B4%20%EB%B0%B0%EC%97%B4%EB%A1%9C%20%EB%A7%8C%EB%93%A4%EA%B8%B0/12932.js) |
+| 3 | [짝수와 홀수](https://school.programmers.co.kr/learn/courses/30/lessons/12937) | [12937.java](https://github.com/ehchodev/CodingTest/blob/main/Programmers/Lv.1/%EC%A7%9D%EC%88%98%EC%99%80%20%ED%99%80%EC%88%98/12937.java) | [12937.js](https://github.com/ehchodev/CodingTest/blob/main/Programmers/Lv.1/%EC%A7%9D%EC%88%98%EC%99%80%20%ED%99%80%EC%88%98/12937.js) |
+| 4 | [평균 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/12944) | [12944.java](https://github.com/ehchodev/CodingTest/blob/main/Programmers/Lv.1/%ED%8F%89%EA%B7%A0%20%EA%B5%AC%ED%95%98%EA%B8%B0/12944.java) | [12944.js](https://github.com/ehchodev/CodingTest/blob/main/Programmers/Lv.1/%ED%8F%89%EA%B7%A0%20%EA%B5%AC%ED%95%98%EA%B8%B0/12944.js) |
+| 5 | [x만큼 간격이 있는 n개의 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12954) | [12954.java](https://github.com/ehchodev/CodingTest/blob/main/Programmers/Lv.1/x%EB%A7%8C%ED%81%BC%20%EA%B0%84%EA%B2%A9%EC%9D%B4%20%EC%9E%88%EB%8A%94%20n%EA%B0%9C%EC%9D%98%20%EC%88%AB%EC%9E%90/12954.java) | [12954.js](https://github.com/ehchodev/CodingTest/blob/main/Programmers/Lv.1/x%EB%A7%8C%ED%81%BC%20%EA%B0%84%EA%B2%A9%EC%9D%B4%20%EC%9E%88%EB%8A%94%20n%EA%B0%9C%EC%9D%98%20%EC%88%AB%EC%9E%90/12954.js) |
