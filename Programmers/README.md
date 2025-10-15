@@ -1,6 +1,4 @@
 # Programmers
-
-# 목차
 - [Lv. 0](#lv-0)  
 - [Lv. 1](#lv-1)
 
