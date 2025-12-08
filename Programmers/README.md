@@ -1,6 +1,7 @@
 # Programmers
 - [Lv. 0](#lv-0)  
 - [Lv. 1](#lv-1)
+- [Lv. 2](#lv-2)
 
 ## Lv. 0
 | No. | 문제 | Java | JavaScript |
@@ -335,3 +336,10 @@
 | 84 | [유연근무제](https://school.programmers.co.kr/learn/courses/30/lessons/388351) | [388351.java](https://github.com/ehchodev/coding-test/blob/main/Programmers/Lv.1/%EC%9C%A0%EC%97%B0%EA%B7%BC%EB%AC%B4%EC%A0%9C/388351.java) | [388351.js](https://github.com/ehchodev/coding-test/blob/main/Programmers/Lv.1/%EC%9C%A0%EC%97%B0%EA%B7%BC%EB%AC%B4%EC%A0%9C/388351.js) |
 | 85 | [달리기 경주](https://school.programmers.co.kr/learn/courses/30/lessons/178871) | [178871.java](https://github.com/ehchodev/coding-test/blob/main/Programmers/Lv.1/%EB%8B%AC%EB%A6%AC%EA%B8%B0%20%EA%B2%BD%EC%A3%BC/178871.java) | [178871.js](https://github.com/ehchodev/coding-test/blob/main/Programmers/Lv.1/%EB%8B%AC%EB%A6%AC%EA%B8%B0%20%EA%B2%BD%EC%A3%BC/178871.js) |
 | 86 | [공원 산책](https://school.programmers.co.kr/learn/courses/30/lessons/172928) | [172928.java](https://github.com/ehchodev/coding-test/blob/main/Programmers/Lv.1/%EA%B3%B5%EC%9B%90%20%EC%82%B0%EC%B1%85/172928.java) | [172928.js](https://github.com/ehchodev/coding-test/blob/main/Programmers/Lv.1/%EA%B3%B5%EC%9B%90%20%EC%82%B0%EC%B1%85/172928.js) |
+
+
+## Lv. 2
+| No. | 문제 | Java | JavaScript |
+| 1 | [최댓값과 최솟값](https://school.programmers.co.kr/learn/courses/30/lessons/12939) | [12939.java](https://github.com/ehchodev/coding-test/blob/main/Programmers/Lv.2/%EC%B5%9C%EB%8C%93%EA%B0%92%EA%B3%BC%20%EC%B5%9C%EC%86%9F%EA%B0%92/12939.java) | [12939.js](https://github.com/ehchodev/coding-test/blob/main/Programmers/Lv.2/%EC%B5%9C%EB%8C%93%EA%B0%92%EA%B3%BC%20%EC%B5%9C%EC%86%9F%EA%B0%92/12939.js) |
+| 2 | [올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909) | [12909.java](https://github.com/ehchodev/coding-test/blob/main/Programmers/Lv.2/%EC%98%AC%EB%B0%94%EB%A5%B8%20%EA%B4%84%ED%98%B8/12909.java) | [12909.js](https://github.com/ehchodev/coding-test/blob/main/Programmers/Lv.2/%EC%98%AC%EB%B0%94%EB%A5%B8%20%EA%B4%84%ED%98%B8/12909.js) |
+| 3 | [최솟값 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12941) | [12941.java](https://github.com/ehchodev/coding-test/blob/main/Programmers/Lv.2/%EC%B5%9C%EC%86%9F%EA%B0%92%20%EB%A7%8C%EB%93%A4%EA%B8%B0/12941.java) | [12941.js](https://github.com/ehchodev/coding-test/blob/main/Programmers/Lv.2/%EC%B5%9C%EC%86%9F%EA%B0%92%20%EB%A7%8C%EB%93%A4%EA%B8%B0/12941.js) |
