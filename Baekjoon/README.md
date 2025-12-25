@@ -17,6 +17,10 @@
 | 10 | [꼬마 정민](https://www.acmicpc.net/problem/11382) | [11382.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EB%B8%8C%EB%A1%A0%EC%A6%88/%EB%B8%8C%EB%A1%A0%EC%A6%88%20V/%EA%BC%AC%EB%A7%88%20%EC%A0%95%EB%AF%BC/11382.java) |
 | 11 | [고양이](https://www.acmicpc.net/problem/10171) | [10171.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EB%B8%8C%EB%A1%A0%EC%A6%88/%EB%B8%8C%EB%A1%A0%EC%A6%88%20V/%EA%B3%A0%EC%96%91%EC%9D%B4/10171.java) |
 | 12 | [개](https://www.acmicpc.net/problem/10172) | [10172.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EB%B8%8C%EB%A1%A0%EC%A6%88/%EB%B8%8C%EB%A1%A0%EC%A6%88%20V/%EA%B0%9C/10172.java) |
+| 13 | [두 수 비교하기](https://www.acmicpc.net/problem/1330) | [1330.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EB%B8%8C%EB%A1%A0%EC%A6%88/%EB%B8%8C%EB%A1%A0%EC%A6%88%20V/%EB%91%90%20%EC%88%98%20%EB%B9%84%EA%B5%90%ED%95%98%EA%B8%B0/1330.java) |
+| 14 | [시험 성적](https://www.acmicpc.net/problem/9498) | [9498.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EB%B8%8C%EB%A1%A0%EC%A6%88/%EB%B8%8C%EB%A1%A0%EC%A6%88%20V/%EC%8B%9C%ED%97%98%20%EC%84%B1%EC%A0%81/9498.java) |
+| 15 | [윤년](https://www.acmicpc.net/problem/2753) | [2753.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EB%B8%8C%EB%A1%A0%EC%A6%88/%EB%B8%8C%EB%A1%A0%EC%A6%88%20V/%EC%9C%A4%EB%85%84/2753.java) |
+| 16 | [사분면 고르기](https://www.acmicpc.net/problem/14681) | [14681.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EB%B8%8C%EB%A1%A0%EC%A6%88/%EB%B8%8C%EB%A1%A0%EC%A6%88%20V/%EC%82%AC%EB%B6%84%EB%A9%B4%20%EA%B3%A0%EB%A5%B4%EA%B8%B0/14681.java |
 
 ### 브론즈 III
 | No. | 문제 | Java |
