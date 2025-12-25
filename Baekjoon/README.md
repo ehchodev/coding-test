@@ -26,3 +26,5 @@
 | No. | 문제 | Java |
 |:---:|---|:---:|
 | 1 | [곱셈](https://www.acmicpc.net/problem/2588) | [2588.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EB%B8%8C%EB%A1%A0%EC%A6%88/%EB%B8%8C%EB%A1%A0%EC%A6%88%20III/%EA%B3%B1%EC%85%88/2588.java) |
+| 2 | [알람 시계](https://www.acmicpc.net/problem/2884) | [2884.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EB%B8%8C%EB%A1%A0%EC%A6%88/%EB%B8%8C%EB%A1%A0%EC%A6%88%20III/%EC%95%8C%EB%9E%8C%20%EC%8B%9C%EA%B3%84/2884.java) |
+| 3 | [오븐 시계](https://www.acmicpc.net/problem/2525) | [2525.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EB%B8%8C%EB%A1%A0%EC%A6%88/%EB%B8%8C%EB%A1%A0%EC%A6%88%20III/%EC%98%A4%EB%B8%90%20%EC%8B%9C%EA%B3%84/2525.java) |
