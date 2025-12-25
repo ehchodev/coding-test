@@ -22,6 +22,11 @@
 | 15 | [윤년](https://www.acmicpc.net/problem/2753) | [2753.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EB%B8%8C%EB%A1%A0%EC%A6%88/%EB%B8%8C%EB%A1%A0%EC%A6%88%20V/%EC%9C%A4%EB%85%84/2753.java) |
 | 16 | [사분면 고르기](https://www.acmicpc.net/problem/14681) | [14681.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EB%B8%8C%EB%A1%A0%EC%A6%88/%EB%B8%8C%EB%A1%A0%EC%A6%88%20V/%EC%82%AC%EB%B6%84%EB%A9%B4%20%EA%B3%A0%EB%A5%B4%EA%B8%B0/14681.java) |
 
+### 브론즈 IV
+| No. | 문제 | Java |
+|:---:|---|:---:|
+| 1 | [주사위 세개](https://www.acmicpc.net/problem/2480) | [2480.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EB%B8%8C%EB%A1%A0%EC%A6%88/%EB%B8%8C%EB%A1%A0%EC%A6%88%20IV/2480.java) |
+
 ### 브론즈 III
 | No. | 문제 | Java |
 |:---:|---|:---:|
