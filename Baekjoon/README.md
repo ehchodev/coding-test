@@ -24,11 +24,13 @@
 | 17 | [구구단](https://www.acmicpc.net/problem/2739) | [2739.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EB%B8%8C%EB%A1%A0%EC%A6%88/%EB%B8%8C%EB%A1%A0%EC%A6%88%20V/%EA%B5%AC%EA%B5%AC%EB%8B%A8/2739.java) |
 | 18 | [A+B - 3](https://www.acmicpc.net/problem/10950) | [10950.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EB%B8%8C%EB%A1%A0%EC%A6%88/%EB%B8%8C%EB%A1%A0%EC%A6%88%20V/A%2BB%20-%203/10950.java) |
 | 19 | [합](https://www.acmicpc.net/problem/8393) | [8393.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EB%B8%8C%EB%A1%A0%EC%A6%88/%EB%B8%8C%EB%A1%A0%EC%A6%88%20V/%ED%95%A9/8393.java) |
+| 20 | [코딩은 체육과목 입니다](https://www.acmicpc.net/problem/25314) | [25314.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EB%B8%8C%EB%A1%A0%EC%A6%88/%EB%B8%8C%EB%A1%A0%EC%A6%88%20V/%EC%BD%94%EB%94%A9%EC%9D%80%20%EC%B2%B4%EC%9C%A1%EA%B3%BC%EB%AA%A9%20%EC%9E%85%EB%8B%88%EB%8B%A4/25314.java) |
 
 ### 브론즈 IV
 | No. | 문제 | Java |
 |:---:|---|:---:|
 | 1 | [주사위 세개](https://www.acmicpc.net/problem/2480) | [2480.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EB%B8%8C%EB%A1%A0%EC%A6%88/%EB%B8%8C%EB%A1%A0%EC%A6%88%20IV/2480.java) |
+| 2 | [영수증](https://www.acmicpc.net/problem/25304) | [25304.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EB%B8%8C%EB%A1%A0%EC%A6%88/%EB%B8%8C%EB%A1%A0%EC%A6%88%20IV/%EC%98%81%EC%88%98%EC%A6%9D/25304.java) |
 
 ### 브론즈 III
 | No. | 문제 | Java |
