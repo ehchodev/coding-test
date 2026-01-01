@@ -31,6 +31,7 @@
 |:---:|---|:---:|
 | 1 | [주사위 세개](https://www.acmicpc.net/problem/2480) | [2480.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EB%B8%8C%EB%A1%A0%EC%A6%88/%EB%B8%8C%EB%A1%A0%EC%A6%88%20IV/2480.java) |
 | 2 | [영수증](https://www.acmicpc.net/problem/25304) | [25304.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EB%B8%8C%EB%A1%A0%EC%A6%88/%EB%B8%8C%EB%A1%A0%EC%A6%88%20IV/%EC%98%81%EC%88%98%EC%A6%9D/25304.java) |
+| 3 | [빠른 A+B](https://www.acmicpc.net/problem/15552) | [15552.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EB%B8%8C%EB%A1%A0%EC%A6%88/%EB%B8%8C%EB%A1%A0%EC%A6%88%20IV/%EB%B9%A0%EB%A5%B8%20A%2BB/15552.java) |
 
 ### 브론즈 III
 | No. | 문제 | Java |
