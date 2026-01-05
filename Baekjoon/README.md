@@ -50,3 +50,16 @@
 | 4 | [최소, 최대](https://www.acmicpc.net/problem/10818) | [10818.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EB%B8%8C%EB%A1%A0%EC%A6%88/%EB%B8%8C%EB%A1%A0%EC%A6%88%20III/%EC%B5%9C%EC%86%8C%2C%20%EC%B5%9C%EB%8C%80/10818.java) |
 | 5 | [최댓값](https://www.acmicpc.net/problem/2562) | [2562.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EB%B8%8C%EB%A1%A0%EC%A6%88/%EB%B8%8C%EB%A1%A0%EC%A6%88%20III/%EC%B5%9C%EB%8C%93%EA%B0%92/2562.java) |
 | 6 | [공 넣기](https://www.acmicpc.net/problem/10810) | [10810.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EB%B8%8C%EB%A1%A0%EC%A6%88/%EB%B8%8C%EB%A1%A0%EC%A6%88%20III/%EA%B3%B5%20%EB%84%A3%EA%B8%B0/10810.java) |
+| 7 | [과제 안 내신 분..?](https://www.acmicpc.net/problem/5597) | [5597.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EB%B8%8C%EB%A1%A0%EC%A6%88/%EB%B8%8C%EB%A1%A0%EC%A6%88%20III/%EA%B3%BC%EC%A0%9C%20%EC%95%88%20%EB%82%B4%EC%8B%A0%20%EB%B6%84..%3F/5597.java) |
+
+### 브론즈 II
+| No. | 문제 | Java |
+|:---:|---|:---:|
+| 1 | [공 바꾸기](https://www.acmicpc.net/problem/10813) | [10813.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EB%B8%8C%EB%A1%A0%EC%A6%88/%EB%B8%8C%EB%A1%A0%EC%A6%88%20II/%EA%B3%B5%20%EB%B0%94%EA%BE%B8%EA%B8%B0/10813.java) |
+| 2 | [나머지](https://www.acmicpc.net/problem/3052) | [3052.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EB%B8%8C%EB%A1%A0%EC%A6%88/%EB%B8%8C%EB%A1%A0%EC%A6%88%20II/%EA%B3%B5%20%EB%B0%94%EA%BE%B8%EA%B8%B0/%EB%82%98%EB%A8%B8%EC%A7%80/3052.java) |
+| 3 | [바구니 뒤집기](https://www.acmicpc.net/problem/10811) | [10811.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EB%B8%8C%EB%A1%A0%EC%A6%88/%EB%B8%8C%EB%A1%A0%EC%A6%88%20II/%EB%B0%94%EA%B5%AC%EB%8B%88%20%EB%92%A4%EC%A7%91%EA%B8%B0/10811.java) |
+
+### 브론즈 I
+| No. | 문제 | Java |
+|:---:|---|:---:|
+| 1 | [평균](https://www.acmicpc.net/problem/1546) | [1546.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EB%B8%8C%EB%A1%A0%EC%A6%88/%EB%B8%8C%EB%A1%A0%EC%A6%88%20I/%ED%8F%89%EA%B7%A0/1546.java) |
