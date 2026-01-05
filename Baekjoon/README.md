@@ -30,6 +30,8 @@
 | 23 | [별 찍기 - 1](https://www.acmicpc.net/problem/2438) | [2438.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EB%B8%8C%EB%A1%A0%EC%A6%88/%EB%B8%8C%EB%A1%A0%EC%A6%88%20V/%EB%B3%84%20%EC%B0%8D%EA%B8%B0%20-%201/2438.java) |
 | 24 | [A+B - 5](https://www.acmicpc.net/problem/10952) | [10952.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EB%B8%8C%EB%A1%A0%EC%A6%88/%EB%B8%8C%EB%A1%A0%EC%A6%88%20V/A%2BB%20-%205/10952.java) |
 | 25 | [A+B - 4](https://www.acmicpc.net/problem/10951) | [10951.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EB%B8%8C%EB%A1%A0%EC%A6%88/%EB%B8%8C%EB%A1%A0%EC%A6%88%20V/A%2BB%20-%204/10951.java) |
+| 26 | [개수 세기](https://www.acmicpc.net/problem/10807) | [10807.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EB%B8%8C%EB%A1%A0%EC%A6%88/%EB%B8%8C%EB%A1%A0%EC%A6%88%20V/%EA%B0%9C%EC%88%98%20%EC%84%B8%EA%B8%B0/10807.java) |
+| 27 | [X보다 작은 수](https://www.acmicpc.net/problem/10871) | [10871.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EB%B8%8C%EB%A1%A0%EC%A6%88/%EB%B8%8C%EB%A1%A0%EC%A6%88%20V/X%EB%B3%B4%EB%8B%A4%20%EC%9E%91%EC%9D%80%20%EC%88%98/10871.java) |
 
 ### 브론즈 IV
 | No. | 문제 | Java |
@@ -45,3 +47,6 @@
 | 1 | [곱셈](https://www.acmicpc.net/problem/2588) | [2588.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EB%B8%8C%EB%A1%A0%EC%A6%88/%EB%B8%8C%EB%A1%A0%EC%A6%88%20III/%EA%B3%B1%EC%85%88/2588.java) |
 | 2 | [알람 시계](https://www.acmicpc.net/problem/2884) | [2884.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EB%B8%8C%EB%A1%A0%EC%A6%88/%EB%B8%8C%EB%A1%A0%EC%A6%88%20III/%EC%95%8C%EB%9E%8C%20%EC%8B%9C%EA%B3%84/2884.java) |
 | 3 | [오븐 시계](https://www.acmicpc.net/problem/2525) | [2525.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EB%B8%8C%EB%A1%A0%EC%A6%88/%EB%B8%8C%EB%A1%A0%EC%A6%88%20III/%EC%98%A4%EB%B8%90%20%EC%8B%9C%EA%B3%84/2525.java) |
+| 4 | [최소, 최대](https://www.acmicpc.net/problem/10818) | [10818.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EB%B8%8C%EB%A1%A0%EC%A6%88/%EB%B8%8C%EB%A1%A0%EC%A6%88%20III/%EC%B5%9C%EC%86%8C%2C%20%EC%B5%9C%EB%8C%80/10818.java) |
+| 5 | [최댓값](https://www.acmicpc.net/problem/2562) | [2562.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EB%B8%8C%EB%A1%A0%EC%A6%88/%EB%B8%8C%EB%A1%A0%EC%A6%88%20III/%EC%B5%9C%EB%8C%93%EA%B0%92/2562.java) |
+| 6 | [공 넣기](https://www.acmicpc.net/problem/10810) | [10810.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EB%B8%8C%EB%A1%A0%EC%A6%88/%EB%B8%8C%EB%A1%A0%EC%A6%88%20III/%EA%B3%B5%20%EB%84%A3%EA%B8%B0/10810.java) |
