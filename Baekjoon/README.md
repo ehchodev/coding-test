@@ -32,6 +32,10 @@
 | 25 | [A+B - 4](https://www.acmicpc.net/problem/10951) | [10951.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EB%B8%8C%EB%A1%A0%EC%A6%88/%EB%B8%8C%EB%A1%A0%EC%A6%88%20V/A%2BB%20-%204/10951.java) |
 | 26 | [개수 세기](https://www.acmicpc.net/problem/10807) | [10807.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EB%B8%8C%EB%A1%A0%EC%A6%88/%EB%B8%8C%EB%A1%A0%EC%A6%88%20V/%EA%B0%9C%EC%88%98%20%EC%84%B8%EA%B8%B0/10807.java) |
 | 27 | [X보다 작은 수](https://www.acmicpc.net/problem/10871) | [10871.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EB%B8%8C%EB%A1%A0%EC%A6%88/%EB%B8%8C%EB%A1%A0%EC%A6%88%20V/X%EB%B3%B4%EB%8B%A4%20%EC%9E%91%EC%9D%80%20%EC%88%98/10871.java) |
+| 28 | [문자와 문자열](https://www.acmicpc.net/problem/27866) | [27866.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EB%B8%8C%EB%A1%A0%EC%A6%88/%EB%B8%8C%EB%A1%A0%EC%A6%88%20V/%EB%AC%B8%EC%9E%90%EC%99%80%20%EB%AC%B8%EC%9E%90%EC%97%B4/27866.java) |
+| 29 | [단어 길이 재기](https://www.acmicpc.net/problem/2743) | [2743.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EB%B8%8C%EB%A1%A0%EC%A6%88/%EB%B8%8C%EB%A1%A0%EC%A6%88%20V/%EB%8B%A8%EC%96%B4%20%EA%B8%B8%EC%9D%B4%20%EC%9E%AC%EA%B8%B0/2743.java) |
+| 30 | [문자열](https://www.acmicpc.net/problem/9086) | [9086.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EB%B8%8C%EB%A1%A0%EC%A6%88/%EB%B8%8C%EB%A1%A0%EC%A6%88%20V/%EB%AC%B8%EC%9E%90%EC%97%B4/9086.java) |
+| 31 | [아스키 코드](https://www.acmicpc.net/problem/11654) | [11654.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EB%B8%8C%EB%A1%A0%EC%A6%88/%EB%B8%8C%EB%A1%A0%EC%A6%88%20V/%EC%95%84%EC%8A%A4%ED%82%A4%20%EC%BD%94%EB%93%9C/11654.java) |
 
 ### 브론즈 IV
 | No. | 문제 | Java |
@@ -40,6 +44,7 @@
 | 2 | [영수증](https://www.acmicpc.net/problem/25304) | [25304.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EB%B8%8C%EB%A1%A0%EC%A6%88/%EB%B8%8C%EB%A1%A0%EC%A6%88%20IV/%EC%98%81%EC%88%98%EC%A6%9D/25304.java) |
 | 3 | [빠른 A+B](https://www.acmicpc.net/problem/15552) | [15552.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EB%B8%8C%EB%A1%A0%EC%A6%88/%EB%B8%8C%EB%A1%A0%EC%A6%88%20IV/%EB%B9%A0%EB%A5%B8%20A%2BB/15552.java) |
 | 4 | [별 찍기 - 2](https://www.acmicpc.net/problem/2439) | [2439.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EB%B8%8C%EB%A1%A0%EC%A6%88/%EB%B8%8C%EB%A1%A0%EC%A6%88%20IV/%EB%B3%84%20%EC%B0%8D%EA%B8%B0%20-%202/2439.java) |
+| 5 | [숫자의 합](https://www.acmicpc.net/problem/11720) | [11720.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EB%B8%8C%EB%A1%A0%EC%A6%88/%EB%B8%8C%EB%A1%A0%EC%A6%88%20IV/%EC%88%AB%EC%9E%90%EC%9D%98%20%ED%95%A9/11720.java) |
 
 ### 브론즈 III
 | No. | 문제 | Java |
