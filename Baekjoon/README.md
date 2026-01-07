@@ -56,6 +56,7 @@
 | 5 | [최댓값](https://www.acmicpc.net/problem/2562) | [2562.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EB%B8%8C%EB%A1%A0%EC%A6%88/%EB%B8%8C%EB%A1%A0%EC%A6%88%20III/%EC%B5%9C%EB%8C%93%EA%B0%92/2562.java) |
 | 6 | [공 넣기](https://www.acmicpc.net/problem/10810) | [10810.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EB%B8%8C%EB%A1%A0%EC%A6%88/%EB%B8%8C%EB%A1%A0%EC%A6%88%20III/%EA%B3%B5%20%EB%84%A3%EA%B8%B0/10810.java) |
 | 7 | [과제 안 내신 분..?](https://www.acmicpc.net/problem/5597) | [5597.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EB%B8%8C%EB%A1%A0%EC%A6%88/%EB%B8%8C%EB%A1%A0%EC%A6%88%20III/%EA%B3%BC%EC%A0%9C%20%EC%95%88%20%EB%82%B4%EC%8B%A0%20%EB%B6%84..%3F/5597.java) |
+| 8 | [그대로 출력하기](https://www.acmicpc.net/problem/11718) | [11718.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EB%B8%8C%EB%A1%A0%EC%A6%88/%EB%B8%8C%EB%A1%A0%EC%A6%88%20III/%EA%B7%B8%EB%8C%80%EB%A1%9C%20%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0/11718.java) |
 
 ### 브론즈 II
 | No. | 문제 | Java |
@@ -63,6 +64,11 @@
 | 1 | [공 바꾸기](https://www.acmicpc.net/problem/10813) | [10813.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EB%B8%8C%EB%A1%A0%EC%A6%88/%EB%B8%8C%EB%A1%A0%EC%A6%88%20II/%EA%B3%B5%20%EB%B0%94%EA%BE%B8%EA%B8%B0/10813.java) |
 | 2 | [나머지](https://www.acmicpc.net/problem/3052) | [3052.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EB%B8%8C%EB%A1%A0%EC%A6%88/%EB%B8%8C%EB%A1%A0%EC%A6%88%20II/%EA%B3%B5%20%EB%B0%94%EA%BE%B8%EA%B8%B0/%EB%82%98%EB%A8%B8%EC%A7%80/3052.java) |
 | 3 | [바구니 뒤집기](https://www.acmicpc.net/problem/10811) | [10811.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EB%B8%8C%EB%A1%A0%EC%A6%88/%EB%B8%8C%EB%A1%A0%EC%A6%88%20II/%EB%B0%94%EA%B5%AC%EB%8B%88%20%EB%92%A4%EC%A7%91%EA%B8%B0/10811.java) |
+| 4 | [알파벳 찾기](https://www.acmicpc.net/problem/10809) | [10809.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EB%B8%8C%EB%A1%A0%EC%A6%88/%EB%B8%8C%EB%A1%A0%EC%A6%88%20II/%EC%95%8C%ED%8C%8C%EB%B2%B3%20%EC%B0%BE%EA%B8%B0/10809.java) |
+| 5 | [문자열 반복](https://www.acmicpc.net/problem/2675) | [2675.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EB%B8%8C%EB%A1%A0%EC%A6%88/%EB%B8%8C%EB%A1%A0%EC%A6%88%20II/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%B0%98%EB%B3%B5/2675.java) |
+| 6 | [단어의 개수](https://www.acmicpc.net/problem/1152) | [1152.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EB%B8%8C%EB%A1%A0%EC%A6%88/%EB%B8%8C%EB%A1%A0%EC%A6%88%20II/%EB%8B%A8%EC%96%B4%EC%9D%98%20%EA%B0%9C%EC%88%98/1152.java) |
+| 7 | [상수](https://www.acmicpc.net/problem/2908) | [2908.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EB%B8%8C%EB%A1%A0%EC%A6%88/%EB%B8%8C%EB%A1%A0%EC%A6%88%20II/%EC%83%81%EC%88%98/2908.java) |
+| 8 | [다이얼](https://www.acmicpc.net/problem/5622) | [5622.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EB%B8%8C%EB%A1%A0%EC%A6%88/%EB%B8%8C%EB%A1%A0%EC%A6%88%20II/%EB%8B%A4%EC%9D%B4%EC%96%BC/5622.java) |
 
 ### 브론즈 I
 | No. | 문제 | Java |
