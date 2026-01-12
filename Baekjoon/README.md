@@ -1,5 +1,6 @@
 # Baekjoon
 - [브론즈](#브론즈)
+- [실버](#실버)
 
 ## 브론즈
 ### 브론즈 V
@@ -79,3 +80,11 @@
 |:---:|---|:---:|
 | 1 | [평균](https://www.acmicpc.net/problem/1546) | [1546.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EB%B8%8C%EB%A1%A0%EC%A6%88/%EB%B8%8C%EB%A1%A0%EC%A6%88%20I/%ED%8F%89%EA%B7%A0/1546.java) |
 | 2 | [단어 공부](https://www.acmicpc.net/problem/1157) | [1157.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EB%B8%8C%EB%A1%A0%EC%A6%88/%EB%B8%8C%EB%A1%A0%EC%A6%88%20I/%EB%8B%A8%EC%96%B4%20%EA%B3%B5%EB%B6%80/1157.java) |
+
+## 실버
+### 실버 V
+| No. | 문제 | Java |
+|:---:|---|:---:|
+| 1 | [크로아티아 알파벳](https://www.acmicpc.net/problem/2941) | [2941.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EC%8B%A4%EB%B2%84/%EC%8B%A4%EB%B2%84%20V/%ED%81%AC%EB%A1%9C%EC%95%84%ED%8B%B0%EC%95%84%20%EC%95%8C%ED%8C%8C%EB%B2%B3/2941.java) |
+| 2 | [그룹 단어 체커](https://www.acmicpc.net/problem/1316) | [1316.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EC%8B%A4%EB%B2%84/%EC%8B%A4%EB%B2%84%20V/%EA%B7%B8%EB%A3%B9%20%EB%8B%A8%EC%96%B4%20%EC%B2%B4%EC%BB%A4/1316.java) | 
+| 3 | [너의 평점은](https://www.acmicpc.net/problem/25206) | [25206.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EC%8B%A4%EB%B2%84/%EC%8B%A4%EB%B2%84%20V/%EB%84%88%EC%9D%98%20%ED%8F%89%EC%A0%90%EC%9D%80/25206.java) |
