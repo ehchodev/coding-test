@@ -78,4 +78,4 @@
 | No. | 문제 | Java |
 |:---:|---|:---:|
 | 1 | [평균](https://www.acmicpc.net/problem/1546) | [1546.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EB%B8%8C%EB%A1%A0%EC%A6%88/%EB%B8%8C%EB%A1%A0%EC%A6%88%20I/%ED%8F%89%EA%B7%A0/1546.java) |
-| 2 | [단어 공부](https://www.acmicpc.net/problem/1157) | [1157.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EB%B8%8C%EB%A1%A0%EC%A6%88/%EB%B8%8C%EB%A1%A0%EC%A6%88%20I/%ED%8F%89%EA%B7%A0/%EB%8B%A8%EC%96%B4%20%EA%B3%B5%EB%B6%80/1157.java) |
+| 2 | [단어 공부](https://www.acmicpc.net/problem/1157) | [1157.java]([https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EB%B8%8C%EB%A1%A0%EC%A6%88/%EB%B8%8C%EB%A1%A0%EC%A6%88%20I/%ED%8F%89%EA%B7%A0/%EB%8B%A8%EC%96%B4%20%EA%B3%B5%EB%B6%80/1157.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EB%B8%8C%EB%A1%A0%EC%A6%88/%EB%B8%8C%EB%A1%A0%EC%A6%88%20I/%EB%8B%A8%EC%96%B4%20%EA%B3%B5%EB%B6%80/1157.java)) |
