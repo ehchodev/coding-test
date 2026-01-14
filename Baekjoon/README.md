@@ -64,6 +64,8 @@
 | 10 | [팰린드롬인지 확인하기](https://www.acmicpc.net/problem/10988) | [10988.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EB%B8%8C%EB%A1%A0%EC%A6%88/%EB%B8%8C%EB%A1%A0%EC%A6%88%20III/%ED%8C%B0%EB%A6%B0%EB%93%9C%EB%A1%AC%EC%9D%B8%EC%A7%80%20%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0/10988.java) |
 | 11 | [행렬 덧셈](https://www.acmicpc.net/problem/2738) | [2738.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EB%B8%8C%EB%A1%A0%EC%A6%88/%EB%B8%8C%EB%A1%A0%EC%A6%88%20III/%ED%96%89%EB%A0%AC%20%EB%8D%A7%EC%85%88/2738.java) |
 | 12 | [최댓값](https://www.acmicpc.net/problem/2566) | [2566.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EB%B8%8C%EB%A1%A0%EC%A6%88/%EB%B8%8C%EB%A1%A0%EC%A6%88%20III/%EC%B5%9C%EB%8C%93%EA%B0%92/2566.java) |
+| 13 | [세탁소 사장 동혁](https://www.acmicpc.net/problem/2720) | [2720.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EB%B8%8C%EB%A1%A0%EC%A6%88/%EB%B8%8C%EB%A1%A0%EC%A6%88%20III/%EC%84%B8%ED%83%81%EC%86%8C%20%EC%82%AC%EC%9E%A5%20%EB%8F%99%ED%98%81/2720.java) |
+| 14 | [중앙 이동 알고리즘](https://www.acmicpc.net/problem/2903) | [2903.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EB%B8%8C%EB%A1%A0%EC%A6%88/%EB%B8%8C%EB%A1%A0%EC%A6%88%20III/%EC%A4%91%EC%95%99%20%EC%9D%B4%EB%8F%99%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/2903.java) |
 
 ### 브론즈 II
 | No. | 문제 | Java |
@@ -76,6 +78,8 @@
 | 6 | [단어의 개수](https://www.acmicpc.net/problem/1152) | [1152.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EB%B8%8C%EB%A1%A0%EC%A6%88/%EB%B8%8C%EB%A1%A0%EC%A6%88%20II/%EB%8B%A8%EC%96%B4%EC%9D%98%20%EA%B0%9C%EC%88%98/1152.java) |
 | 7 | [상수](https://www.acmicpc.net/problem/2908) | [2908.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EB%B8%8C%EB%A1%A0%EC%A6%88/%EB%B8%8C%EB%A1%A0%EC%A6%88%20II/%EC%83%81%EC%88%98/2908.java) |
 | 8 | [다이얼](https://www.acmicpc.net/problem/5622) | [5622.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EB%B8%8C%EB%A1%A0%EC%A6%88/%EB%B8%8C%EB%A1%A0%EC%A6%88%20II/%EB%8B%A4%EC%9D%B4%EC%96%BC/5622.java) |
+| 9 | [진법 변환](https://www.acmicpc.net/problem/2745) | [2745.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EB%B8%8C%EB%A1%A0%EC%A6%88/%EB%B8%8C%EB%A1%A0%EC%A6%88%20II/%EC%A7%84%EB%B2%95%20%EB%B3%80%ED%99%98/2745.java) |
+| 10 | [벌집](https://www.acmicpc.net/problem/2292) | [2292.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EB%B8%8C%EB%A1%A0%EC%A6%88/%EB%B8%8C%EB%A1%A0%EC%A6%88%20II/%EB%B2%8C%EC%A7%91/2292.java) |
 
 ### 브론즈 I
 | No. | 문제 | Java |
@@ -83,6 +87,8 @@
 | 1 | [평균](https://www.acmicpc.net/problem/1546) | [1546.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EB%B8%8C%EB%A1%A0%EC%A6%88/%EB%B8%8C%EB%A1%A0%EC%A6%88%20I/%ED%8F%89%EA%B7%A0/1546.java) |
 | 2 | [단어 공부](https://www.acmicpc.net/problem/1157) | [1157.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EB%B8%8C%EB%A1%A0%EC%A6%88/%EB%B8%8C%EB%A1%A0%EC%A6%88%20I/%EB%8B%A8%EC%96%B4%20%EA%B3%B5%EB%B6%80/1157.java) |
 | 3 | [세로읽기](https://www.acmicpc.net/problem/10798) | [10798.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EB%B8%8C%EB%A1%A0%EC%A6%88/%EB%B8%8C%EB%A1%A0%EC%A6%88%20I/%EC%84%B8%EB%A1%9C%EC%9D%BD%EA%B8%B0/10798.java) |
+| 4 | [진법 변환 2](https://www.acmicpc.net/problem/11005) | [11005.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EB%B8%8C%EB%A1%A0%EC%A6%88/%EB%B8%8C%EB%A1%A0%EC%A6%88%20I/%EC%A7%84%EB%B2%95%20%EB%B3%80%ED%99%98%202/11005.java) |
+| 5 | [달팽이는 올라가고 싶다](https://www.acmicpc.net/problem/2869) | [2869.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EB%B8%8C%EB%A1%A0%EC%A6%88/%EB%B8%8C%EB%A1%A0%EC%A6%88%20I/%EB%8B%AC%ED%8C%BD%EC%9D%B4%EB%8A%94%20%EC%98%AC%EB%9D%BC%EA%B0%80%EA%B3%A0%20%EC%8B%B6%EB%8B%A4/2869.java) |
 
 ## 실버
 ### 실버 V
@@ -92,3 +98,4 @@
 | 2 | [그룹 단어 체커](https://www.acmicpc.net/problem/1316) | [1316.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EC%8B%A4%EB%B2%84/%EC%8B%A4%EB%B2%84%20V/%EA%B7%B8%EB%A3%B9%20%EB%8B%A8%EC%96%B4%20%EC%B2%B4%EC%BB%A4/1316.java) |
 | 3 | [너의 평점은](https://www.acmicpc.net/problem/25206) | [25206.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EC%8B%A4%EB%B2%84/%EC%8B%A4%EB%B2%84%20V/%EB%84%88%EC%9D%98%20%ED%8F%89%EC%A0%90%EC%9D%80/25206.java) |
 | 4 | [색종이](https://www.acmicpc.net/problem/2563) | [2563.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EC%8B%A4%EB%B2%84/%EC%8B%A4%EB%B2%84%20V/%EC%83%89%EC%A2%85%EC%9D%B4/2563.java) |
+| 5 | [분수찾기](https://www.acmicpc.net/problem/1193) | [1193.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EC%8B%A4%EB%B2%84/%EC%8B%A4%EB%B2%84%20V/%EB%B6%84%EC%88%98%EC%B0%BE%EA%B8%B0/1193.java) |
