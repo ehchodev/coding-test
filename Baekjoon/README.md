@@ -39,6 +39,7 @@
 | 31 | [아스키 코드](https://www.acmicpc.net/problem/11654) | [11654.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EB%B8%8C%EB%A1%A0%EC%A6%88/%EB%B8%8C%EB%A1%A0%EC%A6%88%20V/%EC%95%84%EC%8A%A4%ED%82%A4%20%EC%BD%94%EB%93%9C/11654.java) |
 | 32 | [새싹](https://www.acmicpc.net/problem/25083) | [25083.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EB%B8%8C%EB%A1%A0%EC%A6%88/%EB%B8%8C%EB%A1%A0%EC%A6%88%20V/%EC%83%88%EC%8B%B9/25083.java) |
 | 33 | [킹, 퀸, 룩, 비숍, 나이트, 폰](https://www.acmicpc.net/problem/3003) | [3003.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EB%B8%8C%EB%A1%A0%EC%A6%88/%EB%B8%8C%EB%A1%A0%EC%A6%88%20V/%ED%82%B9%2C%20%ED%80%B8%2C%20%EB%A3%A9%2C%20%EB%B9%84%EC%88%8D%2C%20%EB%82%98%EC%9D%B4%ED%8A%B8%2C%20%ED%8F%B0/3003.java) |
+| 34 | [직사각형](https://www.acmicpc.net/problem/27323) | [27323.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EB%B8%8C%EB%A1%A0%EC%A6%88/%EB%B8%8C%EB%A1%A0%EC%A6%88%20V/%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95/27323.java) |
 
 ### 브론즈 IV
 | No. | 문제 | Java |
@@ -48,6 +49,7 @@
 | 3 | [빠른 A+B](https://www.acmicpc.net/problem/15552) | [15552.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EB%B8%8C%EB%A1%A0%EC%A6%88/%EB%B8%8C%EB%A1%A0%EC%A6%88%20IV/%EB%B9%A0%EB%A5%B8%20A%2BB/15552.java) |
 | 4 | [별 찍기 - 2](https://www.acmicpc.net/problem/2439) | [2439.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EB%B8%8C%EB%A1%A0%EC%A6%88/%EB%B8%8C%EB%A1%A0%EC%A6%88%20IV/%EB%B3%84%20%EC%B0%8D%EA%B8%B0%20-%202/2439.java) |
 | 5 | [숫자의 합](https://www.acmicpc.net/problem/11720) | [11720.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EB%B8%8C%EB%A1%A0%EC%A6%88/%EB%B8%8C%EB%A1%A0%EC%A6%88%20IV/%EC%88%AB%EC%9E%90%EC%9D%98%20%ED%95%A9/11720.java) |
+| 6 | [삼각형 외우기](https://www.acmicpc.net/problem/10101) | [10101.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EB%B8%8C%EB%A1%A0%EC%A6%88/%EB%B8%8C%EB%A1%A0%EC%A6%88%20IV/%EC%82%BC%EA%B0%81%ED%98%95%20%EC%99%B8%EC%9A%B0%EA%B8%B0/10101.java) |
 
 ### 브론즈 III
 | No. | 문제 | Java |
@@ -68,6 +70,12 @@
 | 14 | [중앙 이동 알고리즘](https://www.acmicpc.net/problem/2903) | [2903.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EB%B8%8C%EB%A1%A0%EC%A6%88/%EB%B8%8C%EB%A1%A0%EC%A6%88%20III/%EC%A4%91%EC%95%99%20%EC%9D%B4%EB%8F%99%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/2903.java) |
 | 15 | [배수와 약수](https://www.acmicpc.net/problem/5086) | [5086.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EB%B8%8C%EB%A1%A0%EC%A6%88/%EB%B8%8C%EB%A1%A0%EC%A6%88%20III/%EB%B0%B0%EC%88%98%EC%99%80%20%EC%95%BD%EC%88%98/5086.java) |
 | 16 | [약수 구하기](https://www.acmicpc.net/problem/2501) | [2501.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EB%B8%8C%EB%A1%A0%EC%A6%88/%EB%B8%8C%EB%A1%A0%EC%A6%88%20III/%EC%95%BD%EC%88%98%20%EA%B5%AC%ED%95%98%EA%B8%B0/2501.java) |
+| 17 | [직사각형에서 탈출](https://www.acmicpc.net/problem/1085) | [1085.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EB%B8%8C%EB%A1%A0%EC%A6%88/%EB%B8%8C%EB%A1%A0%EC%A6%88%20III/%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95%EC%97%90%EC%84%9C%20%ED%83%88%EC%B6%9C/1085.java) |
+| 18 | [네 번째 점](https://www.acmicpc.net/problem/3009) | [3009.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EB%B8%8C%EB%A1%A0%EC%A6%88/%EB%B8%8C%EB%A1%A0%EC%A6%88%20III/%EB%84%A4%20%EB%B2%88%EC%A7%B8%20%EC%A0%90/3009.java) |
+| 19 | [수학은 체육과목 입니다](https://www.acmicpc.net/problem/15894) | [15894.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EB%B8%8C%EB%A1%A0%EC%A6%88/%EB%B8%8C%EB%A1%A0%EC%A6%88%20III/%EC%88%98%ED%95%99%EC%9D%80%20%EC%B2%B4%EC%9C%A1%EA%B3%BC%EB%AA%A9%20%EC%9E%85%EB%8B%88%EB%8B%A4/15894.java) |
+| 20 | [대지](https://www.acmicpc.net/problem/9063) | [9063.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EB%B8%8C%EB%A1%A0%EC%A6%88/%EB%B8%8C%EB%A1%A0%EC%A6%88%20III/%EB%8C%80%EC%A7%80/9063.java) |
+| 21 | [삼각형과 세 변](https://www.acmicpc.net/problem/5073) | [5073.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EB%B8%8C%EB%A1%A0%EC%A6%88/%EB%B8%8C%EB%A1%A0%EC%A6%88%20III/%EC%82%BC%EA%B0%81%ED%98%95%EA%B3%BC%20%EC%84%B8%20%EB%B3%80/5073.java) |
+| 22 | [세 막대](https://www.acmicpc.net/problem/14215) | [14215.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EB%B8%8C%EB%A1%A0%EC%A6%88/%EB%B8%8C%EB%A1%A0%EC%A6%88%20III/%EC%84%B8%20%EB%A7%89%EB%8C%80/14215.java) |
 
 ### 브론즈 II
 | No. | 문제 | Java |
