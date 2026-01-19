@@ -40,6 +40,7 @@
 | 32 | [새싹](https://www.acmicpc.net/problem/25083) | [25083.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EB%B8%8C%EB%A1%A0%EC%A6%88/%EB%B8%8C%EB%A1%A0%EC%A6%88%20V/%EC%83%88%EC%8B%B9/25083.java) |
 | 33 | [킹, 퀸, 룩, 비숍, 나이트, 폰](https://www.acmicpc.net/problem/3003) | [3003.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EB%B8%8C%EB%A1%A0%EC%A6%88/%EB%B8%8C%EB%A1%A0%EC%A6%88%20V/%ED%82%B9%2C%20%ED%80%B8%2C%20%EB%A3%A9%2C%20%EB%B9%84%EC%88%8D%2C%20%EB%82%98%EC%9D%B4%ED%8A%B8%2C%20%ED%8F%B0/3003.java) |
 | 34 | [직사각형](https://www.acmicpc.net/problem/27323) | [27323.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EB%B8%8C%EB%A1%A0%EC%A6%88/%EB%B8%8C%EB%A1%A0%EC%A6%88%20V/%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95/27323.java) |
+| 35 | [알고리즘 수업 - 알고리즘의 수행 시간 1](https://www.acmicpc.net/problem/24262) | [24262.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EB%B8%8C%EB%A1%A0%EC%A6%88/%EB%B8%8C%EB%A1%A0%EC%A6%88%20V/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%88%98%EC%97%85%20-%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%9D%98%20%EC%88%98%ED%96%89%20%EC%8B%9C%EA%B0%84%201/24262.java) |
 
 ### 브론즈 IV
 | No. | 문제 | Java |
@@ -50,6 +51,7 @@
 | 4 | [별 찍기 - 2](https://www.acmicpc.net/problem/2439) | [2439.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EB%B8%8C%EB%A1%A0%EC%A6%88/%EB%B8%8C%EB%A1%A0%EC%A6%88%20IV/%EB%B3%84%20%EC%B0%8D%EA%B8%B0%20-%202/2439.java) |
 | 5 | [숫자의 합](https://www.acmicpc.net/problem/11720) | [11720.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EB%B8%8C%EB%A1%A0%EC%A6%88/%EB%B8%8C%EB%A1%A0%EC%A6%88%20IV/%EC%88%AB%EC%9E%90%EC%9D%98%20%ED%95%A9/11720.java) |
 | 6 | [삼각형 외우기](https://www.acmicpc.net/problem/10101) | [10101.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EB%B8%8C%EB%A1%A0%EC%A6%88/%EB%B8%8C%EB%A1%A0%EC%A6%88%20IV/%EC%82%BC%EA%B0%81%ED%98%95%20%EC%99%B8%EC%9A%B0%EA%B8%B0/10101.java) |
+| 7 | [알고리즘 수업 - 알고리즘의 수행 시간 2](https://www.acmicpc.net/problem/24263) | [24263.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EB%B8%8C%EB%A1%A0%EC%A6%88/%EB%B8%8C%EB%A1%A0%EC%A6%88%20IV/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%88%98%EC%97%85%20-%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%9D%98%20%EC%88%98%ED%96%89%20%EC%8B%9C%EA%B0%84%202/24263.java) |
 
 ### 브론즈 III
 | No. | 문제 | Java |
@@ -76,6 +78,9 @@
 | 20 | [대지](https://www.acmicpc.net/problem/9063) | [9063.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EB%B8%8C%EB%A1%A0%EC%A6%88/%EB%B8%8C%EB%A1%A0%EC%A6%88%20III/%EB%8C%80%EC%A7%80/9063.java) |
 | 21 | [삼각형과 세 변](https://www.acmicpc.net/problem/5073) | [5073.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EB%B8%8C%EB%A1%A0%EC%A6%88/%EB%B8%8C%EB%A1%A0%EC%A6%88%20III/%EC%82%BC%EA%B0%81%ED%98%95%EA%B3%BC%20%EC%84%B8%20%EB%B3%80/5073.java) |
 | 22 | [세 막대](https://www.acmicpc.net/problem/14215) | [14215.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EB%B8%8C%EB%A1%A0%EC%A6%88/%EB%B8%8C%EB%A1%A0%EC%A6%88%20III/%EC%84%B8%20%EB%A7%89%EB%8C%80/14215.java) |
+| 23 | [알고리즘 수업 - 알고리즘의 수행 시간 3](https://www.acmicpc.net/problem/24264) | [24264.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EB%B8%8C%EB%A1%A0%EC%A6%88/%EB%B8%8C%EB%A1%A0%EC%A6%88%20III/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%88%98%EC%97%85%20-%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%9D%98%20%EC%88%98%ED%96%89%20%EC%8B%9C%EA%B0%84%203/24264.java) |
+| 24 | [알고리즘 수업 - 알고리즘의 수행 시간 4](https://www.acmicpc.net/problem/24265) | [24265.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EB%B8%8C%EB%A1%A0%EC%A6%88/%EB%B8%8C%EB%A1%A0%EC%A6%88%20III/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%88%98%EC%97%85%20-%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%9D%98%20%EC%88%98%ED%96%89%20%EC%8B%9C%EA%B0%84%204/24265.java) |
+| 25 | [알고리즘 수업 - 알고리즘의 수행 시간 5](https://www.acmicpc.net/problem/24266) | [24266.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EB%B8%8C%EB%A1%A0%EC%A6%88/%EB%B8%8C%EB%A1%A0%EC%A6%88%20III/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%88%98%EC%97%85%20-%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%9D%98%20%EC%88%98%ED%96%89%20%EC%8B%9C%EA%B0%84%205/24266.java) |
 
 ### 브론즈 II
 | No. | 문제 | Java |
@@ -92,6 +97,7 @@
 | 10 | [벌집](https://www.acmicpc.net/problem/2292) | [2292.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EB%B8%8C%EB%A1%A0%EC%A6%88/%EB%B8%8C%EB%A1%A0%EC%A6%88%20II/%EB%B2%8C%EC%A7%91/2292.java) |
 | 11 | [소수 찾기](https://www.acmicpc.net/problem/1978) | [1978.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EB%B8%8C%EB%A1%A0%EC%A6%88/%EB%B8%8C%EB%A1%A0%EC%A6%88%20II/%EC%86%8C%EC%88%98%20%EC%B0%BE%EA%B8%B0/1978.java) |
 | 12 | [소수](https://www.acmicpc.net/problem/2581) | [2581.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EB%B8%8C%EB%A1%A0%EC%A6%88/%EB%B8%8C%EB%A1%A0%EC%A6%88%20II/%EC%86%8C%EC%88%98/2581.java) |
+| 13 | [알고리즘 수업 - 알고리즘의 수행 시간 6](https://www.acmicpc.net/problem/24267) | [24267.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EB%B8%8C%EB%A1%A0%EC%A6%88/%EB%B8%8C%EB%A1%A0%EC%A6%88%20II/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%88%98%EC%97%85%20-%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%9D%98%20%EC%88%98%ED%96%89%20%EC%8B%9C%EA%B0%84%206/24267.java) |
 
 ### 브론즈 I
 | No. | 문제 | Java |
@@ -113,3 +119,4 @@
 | 3 | [너의 평점은](https://www.acmicpc.net/problem/25206) | [25206.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EC%8B%A4%EB%B2%84/%EC%8B%A4%EB%B2%84%20V/%EB%84%88%EC%9D%98%20%ED%8F%89%EC%A0%90%EC%9D%80/25206.java) |
 | 4 | [색종이](https://www.acmicpc.net/problem/2563) | [2563.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EC%8B%A4%EB%B2%84/%EC%8B%A4%EB%B2%84%20V/%EC%83%89%EC%A2%85%EC%9D%B4/2563.java) |
 | 5 | [분수찾기](https://www.acmicpc.net/problem/1193) | [1193.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EC%8B%A4%EB%B2%84/%EC%8B%A4%EB%B2%84%20V/%EB%B6%84%EC%88%98%EC%B0%BE%EA%B8%B0/1193.java) |
+| 6 | [알고리즘 수업 - 점근적 표기 1](https://www.acmicpc.net/problem/24313) | [24313.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EC%8B%A4%EB%B2%84/%EC%8B%A4%EB%B2%84%20V/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%88%98%EC%97%85%20-%20%EC%A0%90%EA%B7%BC%EC%A0%81%20%ED%91%9C%EA%B8%B0%201/24313.java) |
