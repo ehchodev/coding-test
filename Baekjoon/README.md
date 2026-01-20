@@ -98,6 +98,7 @@
 | 11 | [소수 찾기](https://www.acmicpc.net/problem/1978) | [1978.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EB%B8%8C%EB%A1%A0%EC%A6%88/%EB%B8%8C%EB%A1%A0%EC%A6%88%20II/%EC%86%8C%EC%88%98%20%EC%B0%BE%EA%B8%B0/1978.java) |
 | 12 | [소수](https://www.acmicpc.net/problem/2581) | [2581.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EB%B8%8C%EB%A1%A0%EC%A6%88/%EB%B8%8C%EB%A1%A0%EC%A6%88%20II/%EC%86%8C%EC%88%98/2581.java) |
 | 13 | [알고리즘 수업 - 알고리즘의 수행 시간 6](https://www.acmicpc.net/problem/24267) | [24267.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EB%B8%8C%EB%A1%A0%EC%A6%88/%EB%B8%8C%EB%A1%A0%EC%A6%88%20II/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%88%98%EC%97%85%20-%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%9D%98%20%EC%88%98%ED%96%89%20%EC%8B%9C%EA%B0%84%206/24267.java) |
+| 14 | [블랙잭](https://www.acmicpc.net/problem/2798) | [2798.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EB%B8%8C%EB%A1%A0%EC%A6%88/%EB%B8%8C%EB%A1%A0%EC%A6%88%20II/%EB%B8%94%EB%9E%99%EC%9E%AD/2798.java) |
 
 ### 브론즈 I
 | No. | 문제 | Java |
