@@ -99,6 +99,8 @@
 | 12 | [소수](https://www.acmicpc.net/problem/2581) | [2581.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EB%B8%8C%EB%A1%A0%EC%A6%88/%EB%B8%8C%EB%A1%A0%EC%A6%88%20II/%EC%86%8C%EC%88%98/2581.java) |
 | 13 | [알고리즘 수업 - 알고리즘의 수행 시간 6](https://www.acmicpc.net/problem/24267) | [24267.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EB%B8%8C%EB%A1%A0%EC%A6%88/%EB%B8%8C%EB%A1%A0%EC%A6%88%20II/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%88%98%EC%97%85%20-%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%9D%98%20%EC%88%98%ED%96%89%20%EC%8B%9C%EA%B0%84%206/24267.java) |
 | 14 | [블랙잭](https://www.acmicpc.net/problem/2798) | [2798.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EB%B8%8C%EB%A1%A0%EC%A6%88/%EB%B8%8C%EB%A1%A0%EC%A6%88%20II/%EB%B8%94%EB%9E%99%EC%9E%AD/2798.java) |
+| 15 | [분해합](https://www.acmicpc.net/problem/2231) | [2231.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EB%B8%8C%EB%A1%A0%EC%A6%88/%EB%B8%8C%EB%A1%A0%EC%A6%88%20II/%EB%B6%84%ED%95%B4%ED%95%A9/2231.java) |
+| 16 | [수학은 비대면강의입니다](https://www.acmicpc.net/problem/19532) | [19532.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EB%B8%8C%EB%A1%A0%EC%A6%88/%EB%B8%8C%EB%A1%A0%EC%A6%88%20II/%EC%88%98%ED%95%99%EC%9D%80%20%EB%B9%84%EB%8C%80%EB%A9%B4%EA%B0%95%EC%9D%98%EC%9E%85%EB%8B%88%EB%8B%A4/19532.java) |
 
 ### 브론즈 I
 | No. | 문제 | Java |
