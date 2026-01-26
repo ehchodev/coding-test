@@ -115,6 +115,7 @@
 | 5 | [달팽이는 올라가고 싶다](https://www.acmicpc.net/problem/2869) | [2869.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EB%B8%8C%EB%A1%A0%EC%A6%88/%EB%B8%8C%EB%A1%A0%EC%A6%88%20I/%EB%8B%AC%ED%8C%BD%EC%9D%B4%EB%8A%94%20%EC%98%AC%EB%9D%BC%EA%B0%80%EA%B3%A0%20%EC%8B%B6%EB%8B%A4/2869.java) |
 | 6 | [약수들의 합](https://www.acmicpc.net/problem/9506) | [9506.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EB%B8%8C%EB%A1%A0%EC%A6%88/%EB%B8%8C%EB%A1%A0%EC%A6%88%20I/%EC%95%BD%EC%88%98%EB%93%A4%EC%9D%98%20%ED%95%A9/9506.java) |
 | 7 | [소인수분해](https://www.acmicpc.net/problem/11653) | [11653.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EB%B8%8C%EB%A1%A0%EC%A6%88/%EB%B8%8C%EB%A1%A0%EC%A6%88%20I/%EC%86%8C%EC%9D%B8%EC%88%98%EB%B6%84%ED%95%B4/11653.java) |
+| 8 | [수 정렬하기 3](https://www.acmicpc.net/problem/10989) | [10989.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EB%B8%8C%EB%A1%A0%EC%A6%88/%EB%B8%8C%EB%A1%A0%EC%A6%88%20I/%EC%88%98%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0%203/10989.java) |
 
 ## 실버
 ### 실버 V
@@ -127,6 +128,7 @@
 | 5 | [분수찾기](https://www.acmicpc.net/problem/1193) | [1193.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EC%8B%A4%EB%B2%84/%EC%8B%A4%EB%B2%84%20V/%EB%B6%84%EC%88%98%EC%B0%BE%EA%B8%B0/1193.java) |
 | 6 | [알고리즘 수업 - 점근적 표기 1](https://www.acmicpc.net/problem/24313) | [24313.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EC%8B%A4%EB%B2%84/%EC%8B%A4%EB%B2%84%20V/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%88%98%EC%97%85%20-%20%EC%A0%90%EA%B7%BC%EC%A0%81%20%ED%91%9C%EA%B8%B0%201/24313.java) |
 | 7 | [영화감독 숌](https://www.acmicpc.net/problem/1436) | [1436.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EC%8B%A4%EB%B2%84/%EC%8B%A4%EB%B2%84%20V/%EC%98%81%ED%99%94%EA%B0%90%EB%8F%85%20%EC%88%8C/1436.java) |
+| 8 | [수 정렬하기 2](https://www.acmicpc.net/problem/2751) | [2751.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EC%8B%A4%EB%B2%84/%EC%8B%A4%EB%B2%84%20V/%EC%88%98%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0%202/2751.java) |
 
 ### 실버 IV
 | No. | 문제 | Java |
