@@ -116,6 +116,7 @@
 | 6 | [약수들의 합](https://www.acmicpc.net/problem/9506) | [9506.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EB%B8%8C%EB%A1%A0%EC%A6%88/%EB%B8%8C%EB%A1%A0%EC%A6%88%20I/%EC%95%BD%EC%88%98%EB%93%A4%EC%9D%98%20%ED%95%A9/9506.java) |
 | 7 | [소인수분해](https://www.acmicpc.net/problem/11653) | [11653.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EB%B8%8C%EB%A1%A0%EC%A6%88/%EB%B8%8C%EB%A1%A0%EC%A6%88%20I/%EC%86%8C%EC%9D%B8%EC%88%98%EB%B6%84%ED%95%B4/11653.java) |
 | 8 | [수 정렬하기 3](https://www.acmicpc.net/problem/10989) | [10989.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EB%B8%8C%EB%A1%A0%EC%A6%88/%EB%B8%8C%EB%A1%A0%EC%A6%88%20I/%EC%88%98%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0%203/10989.java) |
+| 9 | [최소공배수](https://www.acmicpc.net/problem/1934) | [1934.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EB%B8%8C%EB%A1%A0%EC%A6%88/%EB%B8%8C%EB%A1%A0%EC%A6%88%20I/%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98/1934.java) |
 
 ## 실버
 ### 실버 V
@@ -136,6 +137,7 @@
 | 13 | [나이순 정렬](https://www.acmicpc.net/problem/10814) | [10814.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EC%8B%A4%EB%B2%84/%EC%8B%A4%EB%B2%84%20V/%EB%82%98%EC%9D%B4%EC%88%9C%20%EC%A0%95%EB%A0%AC/10814.java) |
 | 14 | [숫자 카드](https://www.acmicpc.net/problem/10815) | [10815.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EC%8B%A4%EB%B2%84/%EC%8B%A4%EB%B2%84%20V/%EC%88%AB%EC%9E%90%20%EC%B9%B4%EB%93%9C/10815.java) |
 | 15 | [회사에 있는 사람](https://www.acmicpc.net/problem/7785) | [7785.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EC%8B%A4%EB%B2%84/%EC%8B%A4%EB%B2%84%20V/%ED%9A%8C%EC%82%AC%EC%97%90%20%EC%9E%88%EB%8A%94%20%EC%82%AC%EB%9E%8C/7785.java) |
+| 16 | [최소공배수](https://www.acmicpc.net/problem/13241) | [13241.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EC%8B%A4%EB%B2%84/%EC%8B%A4%EB%B2%84%20V/%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98/13241.java) |
 
 ### 실버 IV
 | No. | 문제 | Java |
@@ -152,6 +154,7 @@
 |:---:|---|:---:|
 | 1 | [체스판 다시 칠하기](https://www.acmicpc.net/problem/1018) | [1018.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EC%8B%A4%EB%B2%84/%EC%8B%A4%EB%B2%84%20III/%EC%B2%B4%EC%8A%A4%ED%8C%90%20%EB%8B%A4%EC%8B%9C%20%EC%B9%A0%ED%95%98%EA%B8%B0/1018.java) |
 | 2 | [서로 다른 부분 문자열의 개수](https://www.acmicpc.net/problem/11478) | [11478.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EC%8B%A4%EB%B2%84/%EC%8B%A4%EB%B2%84%20III/%EC%84%9C%EB%A1%9C%20%EB%8B%A4%EB%A5%B8%20%EB%B6%80%EB%B6%84%20%EB%AC%B8%EC%9E%90%EC%97%B4%EC%9D%98%20%EA%B0%9C%EC%88%98/11478.java) |
+| 3 | [분수 합](https://www.acmicpc.net/problem/1735) | [1735.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EC%8B%A4%EB%B2%84/%EC%8B%A4%EB%B2%84%20III/%EB%B6%84%EC%88%98%20%ED%95%A9/1735.java) |
 
 ### 실버 II
 | No. | 문제 | Java |
