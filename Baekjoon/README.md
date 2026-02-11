@@ -163,6 +163,7 @@
 | 2 | [서로 다른 부분 문자열의 개수](https://www.acmicpc.net/problem/11478) | [11478.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EC%8B%A4%EB%B2%84/%EC%8B%A4%EB%B2%84%20III/%EC%84%9C%EB%A1%9C%20%EB%8B%A4%EB%A5%B8%20%EB%B6%80%EB%B6%84%20%EB%AC%B8%EC%9E%90%EC%97%B4%EC%9D%98%20%EA%B0%9C%EC%88%98/11478.java) |
 | 3 | [분수 합](https://www.acmicpc.net/problem/1735) | [1735.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EC%8B%A4%EB%B2%84/%EC%8B%A4%EB%B2%84%20III/%EB%B6%84%EC%88%98%20%ED%95%A9/1735.java) |
 | 4 | [소수 구하기](https://www.acmicpc.net/problem/1929) | [1929.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EC%8B%A4%EB%B2%84/%EC%8B%A4%EB%B2%84%20III/%EC%86%8C%EC%88%98%20%EA%B5%AC%ED%95%98%EA%B8%B0/1929.java) |
+| 5 | [도키도키 간식드리미](https://www.acmicpc.net/problem/12789) | [12789.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EC%8B%A4%EB%B2%84/%EC%8B%A4%EB%B2%84%20III/%EB%8F%84%ED%82%A4%EB%8F%84%ED%82%A4%20%EA%B0%84%EC%8B%9D%EB%93%9C%EB%A6%AC%EB%AF%B8/12789.java) |
 
 ### 실버 II
 | No. | 문제 | Java |
