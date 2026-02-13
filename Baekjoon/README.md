@@ -155,6 +155,9 @@
 | 10 | [제로](https://www.acmicpc.net/problem/10773) | [10773.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EC%8B%A4%EB%B2%84/%EC%8B%A4%EB%B2%84%20IV/%EC%A0%9C%EB%A1%9C/10773.java) |
 | 11 | [괄호](https://www.acmicpc.net/problem/9012) | [9012.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EC%8B%A4%EB%B2%84/%EC%8B%A4%EB%B2%84%20IV/%EA%B4%84%ED%98%B8/9012.java) |
 | 12 | [균형잡힌 세상](https://www.acmicpc.net/problem/4949) | [4949.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EC%8B%A4%EB%B2%84/%EC%8B%A4%EB%B2%84%20IV/%EA%B7%A0%ED%98%95%EC%9E%A1%ED%9E%8C%20%EC%84%B8%EC%83%81/4949.java) |
+| 13 | [카드2](https://www.acmicpc.net/problem/2164) | [2164.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EC%8B%A4%EB%B2%84/%EC%8B%A4%EB%B2%84%20IV/%EC%B9%B4%EB%93%9C2/2164.java) |
+| 14 | [요세푸스 문제 0](https://www.acmicpc.net/problem/11866) | [11866.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EC%8B%A4%EB%B2%84/%EC%8B%A4%EB%B2%84%20IV/%EC%9A%94%EC%84%B8%ED%91%B8%EC%8A%A4%20%EB%AC%B8%EC%A0%9C%200/11866.java) |
+| 15 | [덱 2](https://www.acmicpc.net/problem/28279) | [28279.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EC%8B%A4%EB%B2%84/%EC%8B%A4%EB%B2%84%20IV/%EB%8D%B1%202/28279.java) |
 
 ### 실버 III
 | No. | 문제 | Java |
