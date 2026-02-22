@@ -167,6 +167,8 @@
 | 3 | [분수 합](https://www.acmicpc.net/problem/1735) | [1735.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EC%8B%A4%EB%B2%84/%EC%8B%A4%EB%B2%84%20III/%EB%B6%84%EC%88%98%20%ED%95%A9/1735.java) |
 | 4 | [소수 구하기](https://www.acmicpc.net/problem/1929) | [1929.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EC%8B%A4%EB%B2%84/%EC%8B%A4%EB%B2%84%20III/%EC%86%8C%EC%88%98%20%EA%B5%AC%ED%95%98%EA%B8%B0/1929.java) |
 | 5 | [도키도키 간식드리미](https://www.acmicpc.net/problem/12789) | [12789.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EC%8B%A4%EB%B2%84/%EC%8B%A4%EB%B2%84%20III/%EB%8F%84%ED%82%A4%EB%8F%84%ED%82%A4%20%EA%B0%84%EC%8B%9D%EB%93%9C%EB%A6%AC%EB%AF%B8/12789.java) |
+| 6 | [풍선 터뜨리기](https://www.acmicpc.net/problem/2346) | [2346.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EC%8B%A4%EB%B2%84/%EC%8B%A4%EB%B2%84%20III/%ED%92%8D%EC%84%A0%20%ED%84%B0%EB%9C%A8%EB%A6%AC%EA%B8%B0/2346.java) |
+| 7 | [queuestack](https://www.acmicpc.net/problem/24511) | [24511.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EC%8B%A4%EB%B2%84/%EC%8B%A4%EB%B2%84%20III/queuestack/24511.java) |
 
 ### 실버 II
 | No. | 문제 | Java |
