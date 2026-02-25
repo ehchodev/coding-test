@@ -52,6 +52,8 @@
 | 5 | [숫자의 합](https://www.acmicpc.net/problem/11720) | [11720.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EB%B8%8C%EB%A1%A0%EC%A6%88/%EB%B8%8C%EB%A1%A0%EC%A6%88%20IV/%EC%88%AB%EC%9E%90%EC%9D%98%20%ED%95%A9/11720.java) |
 | 6 | [삼각형 외우기](https://www.acmicpc.net/problem/10101) | [10101.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EB%B8%8C%EB%A1%A0%EC%A6%88/%EB%B8%8C%EB%A1%A0%EC%A6%88%20IV/%EC%82%BC%EA%B0%81%ED%98%95%20%EC%99%B8%EC%9A%B0%EA%B8%B0/10101.java) |
 | 7 | [알고리즘 수업 - 알고리즘의 수행 시간 2](https://www.acmicpc.net/problem/24263) | [24263.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EB%B8%8C%EB%A1%A0%EC%A6%88/%EB%B8%8C%EB%A1%A0%EC%A6%88%20IV/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%88%98%EC%97%85%20-%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%9D%98%20%EC%88%98%ED%96%89%20%EC%8B%9C%EA%B0%84%202/24263.java) |
+| 8 | [베라의 패션](https://www.acmicpc.net/problem/15439) | [15439.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EB%B8%8C%EB%A1%A0%EC%A6%88/%EB%B8%8C%EB%A1%A0%EC%A6%88%20IV/%EB%B2%A0%EB%9D%BC%EC%9D%98%20%ED%8C%A8%EC%85%98/15439.java) |
+| 9 | [녹색거탑](https://www.acmicpc.net/problem/24723) | [24723.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EB%B8%8C%EB%A1%A0%EC%A6%88/%EB%B8%8C%EB%A1%A0%EC%A6%88%20IV/%EB%85%B9%EC%83%89%EA%B1%B0%ED%83%91/24723.java) |
 
 ### 브론즈 III
 | No. | 문제 | Java |
