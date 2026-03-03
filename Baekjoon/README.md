@@ -83,6 +83,7 @@
 | 23 | [알고리즘 수업 - 알고리즘의 수행 시간 3](https://www.acmicpc.net/problem/24264) | [24264.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EB%B8%8C%EB%A1%A0%EC%A6%88/%EB%B8%8C%EB%A1%A0%EC%A6%88%20III/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%88%98%EC%97%85%20-%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%9D%98%20%EC%88%98%ED%96%89%20%EC%8B%9C%EA%B0%84%203/24264.java) |
 | 24 | [알고리즘 수업 - 알고리즘의 수행 시간 4](https://www.acmicpc.net/problem/24265) | [24265.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EB%B8%8C%EB%A1%A0%EC%A6%88/%EB%B8%8C%EB%A1%A0%EC%A6%88%20III/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%88%98%EC%97%85%20-%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%9D%98%20%EC%88%98%ED%96%89%20%EC%8B%9C%EA%B0%84%204/24265.java) |
 | 25 | [알고리즘 수업 - 알고리즘의 수행 시간 5](https://www.acmicpc.net/problem/24266) | [24266.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EB%B8%8C%EB%A1%A0%EC%A6%88/%EB%B8%8C%EB%A1%A0%EC%A6%88%20III/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%88%98%EC%97%85%20-%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%9D%98%20%EC%88%98%ED%96%89%20%EC%8B%9C%EA%B0%84%205/24266.java) |
+| 26 | [팩토리얼](https://www.acmicpc.net/problem/10872) | [10872.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EB%B8%8C%EB%A1%A0%EC%A6%88/%EB%B8%8C%EB%A1%A0%EC%A6%88%20III/%ED%8C%A9%ED%86%A0%EB%A6%AC%EC%96%BC/10872.java) |
 
 ### 브론즈 II
 | No. | 문제 | Java |
@@ -119,6 +120,7 @@
 | 7 | [소인수분해](https://www.acmicpc.net/problem/11653) | [11653.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EB%B8%8C%EB%A1%A0%EC%A6%88/%EB%B8%8C%EB%A1%A0%EC%A6%88%20I/%EC%86%8C%EC%9D%B8%EC%88%98%EB%B6%84%ED%95%B4/11653.java) |
 | 8 | [수 정렬하기 3](https://www.acmicpc.net/problem/10989) | [10989.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EB%B8%8C%EB%A1%A0%EC%A6%88/%EB%B8%8C%EB%A1%A0%EC%A6%88%20I/%EC%88%98%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0%203/10989.java) |
 | 9 | [최소공배수](https://www.acmicpc.net/problem/1934) | [1934.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EB%B8%8C%EB%A1%A0%EC%A6%88/%EB%B8%8C%EB%A1%A0%EC%A6%88%20I/%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98/1934.java) |
+| 10 | [이항 계수 1](https://www.acmicpc.net/problem/11050) | [11050.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EB%B8%8C%EB%A1%A0%EC%A6%88/%EB%B8%8C%EB%A1%A0%EC%A6%88%20I/%EC%9D%B4%ED%95%AD%20%EA%B3%84%EC%88%98%201/11050.java) |
 
 ## 실버
 ### 실버 V
@@ -141,6 +143,7 @@
 | 15 | [회사에 있는 사람](https://www.acmicpc.net/problem/7785) | [7785.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EC%8B%A4%EB%B2%84/%EC%8B%A4%EB%B2%84%20V/%ED%9A%8C%EC%82%AC%EC%97%90%20%EC%9E%88%EB%8A%94%20%EC%82%AC%EB%9E%8C/7785.java) |
 | 16 | [최소공배수](https://www.acmicpc.net/problem/13241) | [13241.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EC%8B%A4%EB%B2%84/%EC%8B%A4%EB%B2%84%20V/%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98/13241.java) |
 | 17 | [창문 닫기](https://www.acmicpc.net/problem/13909) | [13909.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EC%8B%A4%EB%B2%84/%EC%8B%A4%EB%B2%84%20V/%EC%B0%BD%EB%AC%B8%20%EB%8B%AB%EA%B8%B0/13909.java) |
+| 18 | [다리 놓기](https://www.acmicpc.net/problem/1010) | [1010.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EC%8B%A4%EB%B2%84/%EC%8B%A4%EB%B2%84%20V/%EB%8B%A4%EB%A6%AC%20%EB%86%93%EA%B8%B0/1010.java) |
 
 ### 실버 IV
 | No. | 문제 | Java |
