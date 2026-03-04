@@ -121,6 +121,7 @@
 | 8 | [수 정렬하기 3](https://www.acmicpc.net/problem/10989) | [10989.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EB%B8%8C%EB%A1%A0%EC%A6%88/%EB%B8%8C%EB%A1%A0%EC%A6%88%20I/%EC%88%98%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0%203/10989.java) |
 | 9 | [최소공배수](https://www.acmicpc.net/problem/1934) | [1934.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EB%B8%8C%EB%A1%A0%EC%A6%88/%EB%B8%8C%EB%A1%A0%EC%A6%88%20I/%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98/1934.java) |
 | 10 | [이항 계수 1](https://www.acmicpc.net/problem/11050) | [11050.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EB%B8%8C%EB%A1%A0%EC%A6%88/%EB%B8%8C%EB%A1%A0%EC%A6%88%20I/%EC%9D%B4%ED%95%AD%20%EA%B3%84%EC%88%98%201/11050.java) |
+| 11 | [약수](https://www.acmicpc.net/problem/1037) | [1037.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EB%B8%8C%EB%A1%A0%EC%A6%88/%EB%B8%8C%EB%A1%A0%EC%A6%88%20I/%EC%95%BD%EC%88%98/1037.java) |
 
 ## 실버
 ### 실버 V
@@ -163,6 +164,8 @@
 | 13 | [카드2](https://www.acmicpc.net/problem/2164) | [2164.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EC%8B%A4%EB%B2%84/%EC%8B%A4%EB%B2%84%20IV/%EC%B9%B4%EB%93%9C2/2164.java) |
 | 14 | [요세푸스 문제 0](https://www.acmicpc.net/problem/11866) | [11866.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EC%8B%A4%EB%B2%84/%EC%8B%A4%EB%B2%84%20IV/%EC%9A%94%EC%84%B8%ED%91%B8%EC%8A%A4%20%EB%AC%B8%EC%A0%9C%200/11866.java) |
 | 15 | [덱 2](https://www.acmicpc.net/problem/28279) | [28279.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EC%8B%A4%EB%B2%84/%EC%8B%A4%EB%B2%84%20IV/%EB%8D%B1%202/28279.java) |
+| 16 | [인사성 밝은 곰곰이](https://www.acmicpc.net/problem/25192) | [25192.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EC%8B%A4%EB%B2%84/%EC%8B%A4%EB%B2%84%20IV/%EC%9D%B8%EC%82%AC%EC%84%B1%20%EB%B0%9D%EC%9D%80%20%EA%B3%B0%EA%B3%B0%EC%9D%B4/25192.java) |
+| 17 | [붙임성 좋은 총총이](https://www.acmicpc.net/problem/26069) | [26069.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EC%8B%A4%EB%B2%84/%EC%8B%A4%EB%B2%84%20IV/%EB%B6%99%EC%9E%84%EC%84%B1%20%EC%A2%8B%EC%9D%80%20%EC%B4%9D%EC%B4%9D%EC%9D%B4/26069.java) |
 
 ### 실버 III
 | No. | 문제 | Java |
@@ -174,6 +177,7 @@
 | 5 | [도키도키 간식드리미](https://www.acmicpc.net/problem/12789) | [12789.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EC%8B%A4%EB%B2%84/%EC%8B%A4%EB%B2%84%20III/%EB%8F%84%ED%82%A4%EB%8F%84%ED%82%A4%20%EA%B0%84%EC%8B%9D%EB%93%9C%EB%A6%AC%EB%AF%B8/12789.java) |
 | 6 | [풍선 터뜨리기](https://www.acmicpc.net/problem/2346) | [2346.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EC%8B%A4%EB%B2%84/%EC%8B%A4%EB%B2%84%20III/%ED%92%8D%EC%84%A0%20%ED%84%B0%EB%9C%A8%EB%A6%AC%EA%B8%B0/2346.java) |
 | 7 | [queuestack](https://www.acmicpc.net/problem/24511) | [24511.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EC%8B%A4%EB%B2%84/%EC%8B%A4%EB%B2%84%20III/queuestack/24511.java) |
+| 8 | [영단어 암기는 괴로워](https://www.acmicpc.net/problem/20920) | [20920.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EC%8B%A4%EB%B2%84/%EC%8B%A4%EB%B2%84%20III/%EC%98%81%EB%8B%A8%EC%96%B4%20%EC%95%94%EA%B8%B0%EB%8A%94%20%EA%B4%B4%EB%A1%9C%EC%9B%8C/20920.java) |
 
 ### 실버 II
 | No. | 문제 | Java |
@@ -181,3 +185,4 @@
 | 1 | [좌표 압축](https://www.acmicpc.net/problem/18870) | [18870.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EC%8B%A4%EB%B2%84/%EC%8B%A4%EB%B2%84%20II/%EC%A2%8C%ED%91%9C%20%EC%95%95%EC%B6%95/18870.java) |
 | 2 | [베르트랑 공준](https://www.acmicpc.net/problem/4948) | [4948.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EC%8B%A4%EB%B2%84/%EC%8B%A4%EB%B2%84%20II/%EB%B2%A0%EB%A5%B4%ED%8A%B8%EB%9E%91%20%EA%B3%B5%EC%A4%80/4948.java) | 
 | 3 | [골드바흐 파티션](https://www.acmicpc.net/problem/17103) | [17103.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EC%8B%A4%EB%B2%84/%EC%8B%A4%EB%B2%84%20II/%EA%B3%A8%EB%93%9C%EB%B0%94%ED%9D%90%20%ED%8C%8C%ED%8B%B0%EC%85%98/17103.java) |
+| 4 | [통계학](https://www.acmicpc.net/problem/2108) | [2108.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EC%8B%A4%EB%B2%84/%EC%8B%A4%EB%B2%84%20II/%ED%86%B5%EA%B3%84%ED%95%99/2108.java) |
