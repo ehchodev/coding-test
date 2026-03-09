@@ -41,6 +41,7 @@
 | 33 | [킹, 퀸, 룩, 비숍, 나이트, 폰](https://www.acmicpc.net/problem/3003) | [3003.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EB%B8%8C%EB%A1%A0%EC%A6%88/%EB%B8%8C%EB%A1%A0%EC%A6%88%20V/%ED%82%B9%2C%20%ED%80%B8%2C%20%EB%A3%A9%2C%20%EB%B9%84%EC%88%8D%2C%20%EB%82%98%EC%9D%B4%ED%8A%B8%2C%20%ED%8F%B0/3003.java) |
 | 34 | [직사각형](https://www.acmicpc.net/problem/27323) | [27323.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EB%B8%8C%EB%A1%A0%EC%A6%88/%EB%B8%8C%EB%A1%A0%EC%A6%88%20V/%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95/27323.java) |
 | 35 | [알고리즘 수업 - 알고리즘의 수행 시간 1](https://www.acmicpc.net/problem/24262) | [24262.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EB%B8%8C%EB%A1%A0%EC%A6%88/%EB%B8%8C%EB%A1%A0%EC%A6%88%20V/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%88%98%EC%97%85%20-%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%9D%98%20%EC%88%98%ED%96%89%20%EC%8B%9C%EA%B0%84%201/24262.java) |
+| 36 | [팩토리얼 2](https://www.acmicpc.net/problem/27433) | [27433.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EB%B8%8C%EB%A1%A0%EC%A6%88/%EB%B8%8C%EB%A1%A0%EC%A6%88%20V/%ED%8C%A9%ED%86%A0%EB%A6%AC%EC%96%BC%202/27433.java) |
 
 ### 브론즈 IV
 | No. | 문제 | Java |
