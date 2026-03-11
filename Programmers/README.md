@@ -336,7 +336,7 @@
 | 84 | [유연근무제](https://school.programmers.co.kr/learn/courses/30/lessons/388351) | [388351.java](https://github.com/ehchodev/coding-test/blob/main/Programmers/Lv.1/%EC%9C%A0%EC%97%B0%EA%B7%BC%EB%AC%B4%EC%A0%9C/388351.java) | [388351.js](https://github.com/ehchodev/coding-test/blob/main/Programmers/Lv.1/%EC%9C%A0%EC%97%B0%EA%B7%BC%EB%AC%B4%EC%A0%9C/388351.js) |
 | 85 | [달리기 경주](https://school.programmers.co.kr/learn/courses/30/lessons/178871) | [178871.java](https://github.com/ehchodev/coding-test/blob/main/Programmers/Lv.1/%EB%8B%AC%EB%A6%AC%EA%B8%B0%20%EA%B2%BD%EC%A3%BC/178871.java) | [178871.js](https://github.com/ehchodev/coding-test/blob/main/Programmers/Lv.1/%EB%8B%AC%EB%A6%AC%EA%B8%B0%20%EA%B2%BD%EC%A3%BC/178871.js) |
 | 86 | [공원 산책](https://school.programmers.co.kr/learn/courses/30/lessons/172928) | [172928.java](https://github.com/ehchodev/coding-test/blob/main/Programmers/Lv.1/%EA%B3%B5%EC%9B%90%20%EC%82%B0%EC%B1%85/172928.java) | [172928.js](https://github.com/ehchodev/coding-test/blob/main/Programmers/Lv.1/%EA%B3%B5%EC%9B%90%20%EC%82%B0%EC%B1%85/172928.js) |
-
+| 87 | [노란불 신호등](https://school.programmers.co.kr/learn/courses/30/lessons/468371) | [468371.java](https://github.com/ehchodev/coding-test/blob/main/Programmers/Lv.1/%EB%85%B8%EB%9E%80%EB%B6%88%20%EC%8B%A0%ED%98%B8%EB%93%B1/468371.java) | [468371.js](https://github.com/ehchodev/coding-test/blob/main/Programmers/Lv.1/%EB%85%B8%EB%9E%80%EB%B6%88%20%EC%8B%A0%ED%98%B8%EB%93%B1/468371.js) |
 
 ## Lv. 2
 | No. | 문제 | Java | JavaScript |
