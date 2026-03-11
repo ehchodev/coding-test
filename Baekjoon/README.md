@@ -181,6 +181,8 @@
 | 6 | [풍선 터뜨리기](https://www.acmicpc.net/problem/2346) | [2346.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EC%8B%A4%EB%B2%84/%EC%8B%A4%EB%B2%84%20III/%ED%92%8D%EC%84%A0%20%ED%84%B0%EB%9C%A8%EB%A6%AC%EA%B8%B0/2346.java) |
 | 7 | [queuestack](https://www.acmicpc.net/problem/24511) | [24511.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EC%8B%A4%EB%B2%84/%EC%8B%A4%EB%B2%84%20III/queuestack/24511.java) |
 | 8 | [영단어 암기는 괴로워](https://www.acmicpc.net/problem/20920) | [20920.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EC%8B%A4%EB%B2%84/%EC%8B%A4%EB%B2%84%20III/%EC%98%81%EB%8B%A8%EC%96%B4%20%EC%95%94%EA%B8%B0%EB%8A%94%20%EA%B4%B4%EB%A1%9C%EC%9B%8C/20920.java) |
+| 9 | [알고리즘 수업 - 병합 정렬 1](https://www.acmicpc.net/problem/24060) | [24060.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EC%8B%A4%EB%B2%84/%EC%8B%A4%EB%B2%84%20III/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%88%98%EC%97%85%20-%20%EB%B3%91%ED%95%A9%20%EC%A0%95%EB%A0%AC%201/24060.java) |
+| 10 | [칸토어 집합](https://www.acmicpc.net/problem/4779) | [4779.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EC%8B%A4%EB%B2%84/%EC%8B%A4%EB%B2%84%20III/%EC%B9%B8%ED%86%A0%EC%96%B4%20%EC%A7%91%ED%95%A9/4779.java) |
 
 ### 실버 II
 | No. | 문제 | Java |
