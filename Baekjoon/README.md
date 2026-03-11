@@ -1,6 +1,7 @@
 # Baekjoon
 - [브론즈](#브론즈)
 - [실버](#실버)
+- [골드](#골드)
 
 ## 브론즈
 ### 브론즈 V
@@ -191,3 +192,10 @@
 | 2 | [베르트랑 공준](https://www.acmicpc.net/problem/4948) | [4948.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EC%8B%A4%EB%B2%84/%EC%8B%A4%EB%B2%84%20II/%EB%B2%A0%EB%A5%B4%ED%8A%B8%EB%9E%91%20%EA%B3%B5%EC%A4%80/4948.java) | 
 | 3 | [골드바흐 파티션](https://www.acmicpc.net/problem/17103) | [17103.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EC%8B%A4%EB%B2%84/%EC%8B%A4%EB%B2%84%20II/%EA%B3%A8%EB%93%9C%EB%B0%94%ED%9D%90%20%ED%8C%8C%ED%8B%B0%EC%85%98/17103.java) |
 | 4 | [통계학](https://www.acmicpc.net/problem/2108) | [2108.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EC%8B%A4%EB%B2%84/%EC%8B%A4%EB%B2%84%20II/%ED%86%B5%EA%B3%84%ED%95%99/2108.java) |
+
+## 골드
+### 골드 V
+| No. | 문제 | Java |
+|:---:|---|:---:|
+| 1 | [별 찍기 - 10](https://www.acmicpc.net/problem/2447) | [2447.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EA%B3%A8%EB%93%9C/%EA%B3%A8%EB%93%9C%20V/%EB%B3%84%20%EC%B0%8D%EA%B8%B0%20-%2010/2447.java) |
+| 2 | [하노이 탑 이동 순서](https://www.acmicpc.net/problem/11729) | [11729.java](https://github.com/ehchodev/coding-test/blob/main/Baekjoon/%EA%B3%A8%EB%93%9C/%EA%B3%A8%EB%93%9C%20V/%ED%95%98%EB%85%B8%EC%9D%B4%20%ED%83%91%20%EC%9D%B4%EB%8F%99%20%EC%88%9C%EC%84%9C/11729.java) |
